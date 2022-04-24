@@ -37,6 +37,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
+  /*
   {
     title: "",
     cardImage: "assets/images/project-page/recipe.jpg",
@@ -109,6 +110,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   }, 
+*/
 ];
 
 // function for rendering project cards data
