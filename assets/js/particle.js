@@ -1,5 +1,4 @@
 /* ---- particles.js config ---- */
-/*
 particlesJS("particles-js", {
   particles: {
     number: {
@@ -13,7 +12,7 @@ particlesJS("particles-js", {
       value: ["#2EB67D", "#ECB22E", "#E01E5B", "#36C5F0"],
     },
     shape: {
-      type: "circle",
+      type: "",
       stroke: {
         width: 0,
         color: "#fff",
@@ -94,7 +93,6 @@ particlesJS("particles-js", {
   },
   retina_detect: true,
 });
-*/
 const allElements = document.querySelectorAll(".animated-text");
 
 // It checks if there is at least one element
