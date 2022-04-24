@@ -6,8 +6,8 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
-    cardImage: "assets/images/project-page/ESP32 RELAY PCB.jpg",
+    title: "ESP32 RELAY PCB",
+    cardImage: "assets/images/project-page/ESP32.png",
     description: "A PCB designed for contolling devices mannually and through cloud.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
