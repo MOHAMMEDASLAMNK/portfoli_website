@@ -1,5 +1,5 @@
 /* ---- particles.js config ---- */
-
+/*
 particlesJS("particles-js", {
   particles: {
     number: {
@@ -175,3 +175,4 @@ if (allElements.length > 0) {
     }
   });
 }
+*/
