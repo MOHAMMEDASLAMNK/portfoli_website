@@ -48,11 +48,12 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
+    title: "Maker Fest Kerala",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Responsible for volunteering the Maker Fest Kerala.",
   },
+ /*
   {
     title: "StudentCode-in 2020",
     cardImage: "assets/images/experience-page/2.jpg",
@@ -71,6 +72,7 @@ const volunteershipcards = [
     description:
       "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
   },
+  */
 ];
 
 const showCards = () => {
