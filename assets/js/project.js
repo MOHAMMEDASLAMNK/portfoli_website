@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "LoRa",
-    cardImage: "assets/images/project-page/flappybird.png",
+    cardImage: "assets/images/project-page/lora.jpeg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
