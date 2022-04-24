@@ -94,6 +94,7 @@ particlesJS("particles-js", {
   },
   retina_detect: true,
 });
+*/
 const allElements = document.querySelectorAll(".animated-text");
 
 // It checks if there is at least one element
@@ -175,4 +176,3 @@ if (allElements.length > 0) {
     }
   });
 }
-*/
