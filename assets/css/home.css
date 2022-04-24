@@ -40,7 +40,7 @@ html[data-theme="dark"] {
   --col-white: #fff;
 }
 /* Particle effect*/
-/* body{
+body{
   font-family: "Poppins";
 }
 #home,
@@ -100,7 +100,7 @@ html[data-theme="dark"] {
   to {
     opacity: 1;
   }
-} */
+}
 
 /*Social icons*/
 
